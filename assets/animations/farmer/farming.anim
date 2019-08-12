@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "farming",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b223d9ad-bf35-4ea5-abce-31201edc394f"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "d815c31d-f8e4-49ef-b5e6-16e563140360"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "7b722b7f-830e-438a-8e5d-f30a2599ac90"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "d815c31d-f8e4-49ef-b5e6-16e563140360"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

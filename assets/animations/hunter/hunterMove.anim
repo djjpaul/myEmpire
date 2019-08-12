@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hunterMove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ecfb3794-9c63-4c02-ba09-e03f0401f5b5"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "880197a5-f7ba-454a-8dfe-518a3882c285"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "2eeaa33b-c3b2-42b2-9cc3-aca4a77613c9"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "f5ba761a-14b2-4aef-a231-62bb8ffae052"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
